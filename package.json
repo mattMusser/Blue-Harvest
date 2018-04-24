@@ -1,0 +1,22 @@
+{
+  "name": "lorem-ipsum",
+  "version": "1.0.0",
+  "description": "CSS Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattMusser/Lorem-Ipsum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattMusser/Lorem-Ipsum/issues"
+  },
+  "homepage": "https://github.com/mattMusser/Lorem-Ipsum#readme",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
